@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 122" width="440" height="122">
+            <style>
+                *, *::before, *::after {
+                    box-sizing: border-box;
+                    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji"
+                }
+                .text-default {
+                    color: #24292f;
+                }
+                .text-muted {
+                    color: #57606a;
+                }
+                .wrapper {
+                    width: 440px;
+                    height: 122px;
+                    padding: 12px;
+                    border-radius: 6px;
+                    
+                    
+                }
+                .title {
+                    font-size: 16px;
+                    line-height: 16px;
+                    margin-bottom: 12px;
+                }
+                .figure {
+                    width: 416px;
+                    padding: 16px 16px 4px 16px;
+                    border-radius: 6px;
+                    border: 1px solid #d0d7de;
+                }
+                .progress {
+                    width: 382px;
+                    height: 8px;
+                    border-radius: 4px;
+                    overflow: hidden;
+                    display: flex;
+                    margin-bottom: 8px;
+                }
+                .progress-item {
+                    height: 8px;
+                    margin-right: 2px;
+                    
+                }
+                .progress-item:last-child {
+                    margin-right: 0;
+                }
+                .list {
+                    width: 382px;
+                    display: flex;
+                    flex-wrap: wrap;
+                }
+                .list-item {
+                    display: flex;
+                    align-items: center;
+                    margin-right: 24px;
+                    margin-bottom: 8px;
+                    
+                }
+                .animate {
+                    animation-duration: 0.6s;
+                    animation-fill-mode: forwards;
+                }
+                .dot {
+                    width: 8px;
+                    height: 8px;
+                    border-radius: 4px;
+                    margin-right: 8px;
+                }
+                .language {
+                    font-size: 12px;
+                    line-height: 12px;
+                    font-weight: 600;
+                    margin-right: 4px;
+                }
+                .percent {
+                    font-size: 12px;
+                    line-height: 12px;
+                }
+                
+                
+            </style>
+            <foreignObject x="0" y="0" width="440" height="122">
+                <div xmlns="http://www.w3.org/1999/xhtml" class="wrapper">
+                    
+                    <div xmlns="http://www.w3.org/1999/xhtml" class="figure">
+                        <div xmlns="http://www.w3.org/1999/xhtml" class="progress">
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="progress-item " style="background-color: #f1e05a; width: 206.6688px">
+                                </div>
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="progress-item " style="background-color: #e34c26; width: 67.1232px">
+                                </div>
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="progress-item " style="background-color: #563d7c; width: 47.3984px">
+                                </div>
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="progress-item " style="background-color: #c6538c; width: 21.1968px">
+                                </div>
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="progress-item " style="background-color: #41b883; width: 8.7216px">
+                                </div>
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="progress-item " style="background-color: #3572A5; width: 7.764799999999999px">
+                                </div>
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="progress-item " style="background-color: #000080; width: 4.305599999999999px">
+                                </div>
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="progress-item " style="background-color: #cccccc; width: 4.8576px">
+                                </div>
+                            
+                        </div>
+                        <div xmlns="http://www.w3.org/1999/xhtml" class="list">
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="list-item ">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="dot" style="background-color: #f1e05a"></div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="language text-default">JavaScript</div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="percent text-muted">56.16%</div>
+                                </div>
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="list-item ">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="dot" style="background-color: #e34c26"></div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="language text-default">HTML</div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="percent text-muted">18.24%</div>
+                                </div>
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="list-item ">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="dot" style="background-color: #563d7c"></div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="language text-default">CSS</div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="percent text-muted">12.88%</div>
+                                </div>
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="list-item ">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="dot" style="background-color: #c6538c"></div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="language text-default">SCSS</div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="percent text-muted">5.76%</div>
+                                </div>
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="list-item ">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="dot" style="background-color: #41b883"></div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="language text-default">Vue</div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="percent text-muted">2.37%</div>
+                                </div>
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="list-item ">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="dot" style="background-color: #3572A5"></div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="language text-default">Python</div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="percent text-muted">2.11%</div>
+                                </div>
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="list-item ">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="dot" style="background-color: #000080"></div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="language text-default">Lua</div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="percent text-muted">1.17%</div>
+                                </div>
+                            
+                                <div xmlns="http://www.w3.org/1999/xhtml" class="list-item ">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="dot" style="background-color: #cccccc"></div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="language text-default">Other</div>
+                                    <div xmlns="http://www.w3.org/1999/xhtml" class="percent text-muted">1.32%</div>
+                                </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </foreignObject>
+        </svg>
