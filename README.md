@@ -38,8 +38,6 @@ I also enjoy making extensions and APIs, several of which aim to enhance GitHub 
     <img src="./assets/linguist-chart-light.svg#gh-light-mode-only" /><img src="./assets/linguist-chart-dark.svg#gh-dark-mode-only" />
 </p>
 
-or [GitHub LaTeX](https://github.com/mhollingshead/30-days-30-projects/tree/main/15-github-latex), which allows you to embed LaTeX expressions (like <img src="./assets/0-light.svg#gh-light-mode-only" align="middle" /><img src="./assets/0-dark.svg#gh-dark-mode-only" align="middle" />) in GitHub READMEs.
-
 Sometimes I develop JavaScript libraries, like [ncube.js](https://github.com/mhollingshead/ncube), which dynamically generates n-dimensional hypercube geometries and provides methods for performing basic operations on them:
 
 <p align="center">
