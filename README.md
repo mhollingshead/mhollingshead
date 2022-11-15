@@ -30,7 +30,7 @@ I'm currently attempting to **learn everything** so that I can **create anything
     </tr>
 </table>
 
-I love to create highly-functional webapps, usually with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" /> **React** / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="16" /> **Sass** or <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="16" /> **Vue** / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="16" /> **CSS**, and almost *always* with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16" /> **JavaScript**.
+I love to create highly-functional webapps, usually with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="14" /> **React** / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="14" /> **Sass** or <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="14" /> **Vue** / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="14" /> **CSS**, and *always* with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="14" /> **JavaScript**.
 
 I also enjoy making extensions and APIs, several of which aim to enhance GitHub flavored markdown, like [GitHub User Linguist Chart](https://github.com/mhollingshead/github-user-linguist-chart), which charts a user's language usage and renders it as a profile component:
 
