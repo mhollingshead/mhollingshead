@@ -5,7 +5,7 @@
   </div>
 </h1>
 
-I'm currently attempting to **learn everything** so that I can **create anything**. 
+Living and breathing all things development since ~2012.
 
 <table>
     <tr>
@@ -44,7 +44,7 @@ Sometimes I develop JavaScript libraries, like [ncube.js](https://github.com/mho
     <img src="./assets/ncube-light.gif#gh-light-mode-only" height="200" /><img src="./assets/ncube-dark.gif#gh-dark-mode-only" height="200" />
 </p>
 
-Fell free to check out some of my featured projects below, or say hello:
+Feel free to check out some of my featured projects below, or say hello:
 
 * [✉️](mailto:michael.hollingshead@mail.mcgill.ca) [`michael.hollingshead@mail.mcgill.ca`](mailto:michael.hollingshead@mail.mcgill.ca)
 * [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="18" />](https://www.linkedin.com/in/michael-hollingshead/) [`michael-hollingshead`](https://www.linkedin.com/in/michael-hollingshead/)
